@@ -19,7 +19,7 @@ public class Manuscript {
     @Column(nullable = false)
     private String ownerGndId;
     @Column(nullable = false)
-    private String creationYear;
+    private int creationYear;
     @Column(nullable = false)
     private String title;
     @Column(nullable = false)

@@ -9,5 +9,4 @@ public class HandschriftenPortalApplication {
     public static void main(String[] args) {
         SpringApplication.run(HandschriftenPortalApplication.class, args);
     }
-
 }
