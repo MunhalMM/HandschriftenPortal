@@ -3,7 +3,6 @@ package com.example.handschriftenportal.entity;
 import jakarta.persistence.*;
 import lombok.Data;
 
-
 @Entity
 @Data
 @Table(name = "manuscripts")
