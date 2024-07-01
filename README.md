@@ -38,7 +38,7 @@ Installation
 
   1.	Klonen Sie das Repository:
 
-git clone git clone https://github.com/MunhalMM/HandschriftenPortal.git
+git clone https://github.com/MunhalMM/HandschriftenPortal.git
 cd handschriftenportal
 
   2.	Bauen und starten Sie die Docker-Container:
